@@ -37,7 +37,7 @@
 #### 🪑 Capstone Design Team Project
 [BinBean](https://github.com/settle54/BinBean_Android) | `2025.03 - `
 
-#### 🌊 Tourism Data Competition
+#### 🌊 Tourism Data Utilization Contest
 [Surfing The Gangwon](https://github.com/settle54/Surfing_the_Gangwon) | `2025.07 - `
 
 
